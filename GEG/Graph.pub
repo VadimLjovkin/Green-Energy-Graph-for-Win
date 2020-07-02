@@ -1,5 +1,5 @@
 NBW Publication Source File
-(C)2018 SinLios
+(C)2019 SinLios
 Title=Green Energy Graph
 Author=Vadim E. Ljovkin
 Language=US
@@ -1614,7 +1614,7 @@ HMargin=4
 VMargin=4
 ObjAction=GoSub "[Self]show"¶SetVar "[SelfObject]" "[Self]"¶
 ObjRAction=GoSub "[Self]showR"¶
-ObjEnterAction=SetVar "[hint]" "Paternalism: the state plays a decisive role in its development of the energy sector."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
+ObjEnterAction=SetVar "[hint]" "State controls much of the development of the energy sector."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
 ObjExitAction=SetVar "[hint]" ""¶nzRazCursor¶
 LineColor=0
 LineWidth=0
@@ -1814,7 +1814,7 @@ HMargin=4
 VMargin=4
 ObjAction=GoSub "[Self]show"¶SetVar "[SelfObject]" "[Self]"¶
 ObjRAction=GoSub "[Self]showR"¶
-ObjEnterAction=SetVar "[hint]" "Requirements for increasing the maneuverability of traditional generation."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
+ObjEnterAction=SetVar "[hint]" "Requirements for increasing the flexibility of conventional energy generation."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
 ObjExitAction=SetVar "[hint]" ""¶nzRazCursor¶
 LineColor=0
 LineWidth=0
@@ -1989,7 +1989,7 @@ HMargin=4
 VMargin=4
 ObjAction=GoSub "[Self]show"¶SetVar "[SelfObject]" "[Self]"¶
 ObjRAction=GoSub "[Self]showR"¶
-ObjEnterAction=SetVar "[hint]" "High debt of consumers for electricity."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
+ObjEnterAction=SetVar "[hint]" "Heavy electricity arrears."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
 ObjExitAction=SetVar "[hint]" ""¶nzRazCursor¶
 LineColor=0
 LineWidth=0
@@ -2264,7 +2264,7 @@ HMargin=4
 VMargin=4
 ObjAction=GoSub "[Self]show"¶SetVar "[SelfObject]" "[Self]"¶
 ObjRAction=GoSub "[Self]showR"¶
-ObjEnterAction=SetVar "[hint]" "Great nature damage from frequent accidents at hydropower plants."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
+ObjEnterAction=SetVar "[hint]" "High levels of damage to nature from frequent accidents at hydropower stations."¶SetVar "[nbkFile_Cur]" "[TempDir]aero_link.cur"¶nzLoadCursor¶
 ObjExitAction=SetVar "[hint]" ""¶nzRazCursor¶
 LineColor=0
 LineWidth=0
